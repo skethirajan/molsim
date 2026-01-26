@@ -1,4 +1,4 @@
-# package_name
+# molsim
 
 Short package description.
 
@@ -11,20 +11,20 @@ Short package description.
 ## Installation
 
 ```bash
-pip install package_name
+pip install molsim
 ```
 
 ## Quick Start
 
 ```python
-import package_name
+import molsim
 
 # Your example code here
 ```
 
 ## Documentation
 
-For full documentation, visit the [documentation site](https://username.github.io/package_name/).
+For full documentation, visit the [documentation site](https://skethirajan.github.io/molsim/).
 
 ## License
 
