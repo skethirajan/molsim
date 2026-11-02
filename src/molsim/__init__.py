@@ -1,4 +1,4 @@
-"""molsim: Short package description."""
+"""Molsim: Short package description."""
 
 from __future__ import annotations
 
